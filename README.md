@@ -2,6 +2,8 @@
 
 A robust **Modular Monolith** template for building scalable Node.js applications using **TypeScript**, **Express**, and **Clean Architecture** principles.
 
+To be **clear**, this template **does not attempt** to follow domain-driven design patterns — given the presence of anemic domain models within the template.
+
 ## 🚀 Features
 
 -   **Modular Architecture**: Vertical slice architecture ensuring separation of concerns and scalability.
